@@ -1,3 +1,4 @@
+![alt text](https://avatars.githubusercontent.com/u/78378240?s=200&v=4)
 # Super-Cord
 
 A bungeecord and spigot cross-platform plugin system to enhance your gaming experience. Works even better with the [Super Cloud](https://github.com/Super-projects/Super-Cloud).
