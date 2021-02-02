@@ -12,3 +12,7 @@ Issues can be reported under the [Issues tab](https://github.com/Super-Projects/
 
 ###### More
 Read here for a brief introduction to the [use of the Plugin](https://github.com/Super-Projects/Super-Cord/blob/main/docs/INTRODUCTION.md) and the best way to [set up the plugin](https://github.com/Super-Projects/Super-Cord/blob/main/docs/SET_UP.md).
+
+
+###### Contributors
+![Contributors](https://contrib.rocks/image?repo=Super-Projects/Super-Cord)
