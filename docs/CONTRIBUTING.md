@@ -69,9 +69,9 @@ The best way to get your work integrated into the project is to follow the proce
      git push origin <thema-branch-name>
      ```
 
-**IMPORTANT: When you submit a correction, you are allowing the project owners to license your work under the terms of the [Creative Commons Zero v1.0 Universal](https://github.com/Super-Projects/Super-Cloud/LICENSE.md) License.
+**IMPORTANT**: When you submit a correction, you are allowing the project owners to license your work under the terms of the [Creative Commons Zero v1.0 Universal](https://github.com/Super-Projects/Super-Cord/blob/main/LICENSE) License.
 
-## Licence
+## License
 
 By submitting your code contribution, you agree to license your contribution under the
-the [Creative Commons Zero v1.0 Universal](https://github.com/Super-Projects/Super-Cord/LICENSE.md) license.
+the [Creative Commons Zero v1.0 Universal](https://github.com/Super-Projects/Super-Cord/blob/main/LICENSE) license.
