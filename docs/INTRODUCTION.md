@@ -8,7 +8,7 @@ Nevertheless, your server should always run on the latest bungeecord version to 
 
 If you still have problems, you can simply report your problem under the Issues tab. We will try to answer your problem as soon as possible.
 
-##### System requirements
+###### System requirements
 For the plugin to run properly, your server must meet the following requirements:
 
 - 256-512mb for Bungeecord
